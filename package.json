@@ -10,8 +10,13 @@
   "author": "Ahmed",
   "license": "MIT",
   "dependencies": {
+    "colors": "^1.4.0",
     "dotenv": "^8.2.0",
-    "expess": "0.0.1-security"
+    "expess": "0.0.1-security",
+    "mongoose": "^5.10.11",
+    "morgan": "^1.10.0",
+    "node-geocoder": "^3.27.0",
+    "slugify": "^1.4.6"
   },
   "devDependencies": {
     "express": "^4.17.1",
